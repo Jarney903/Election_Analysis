@@ -122,3 +122,12 @@ with open(file_to_save, "w") as txt_file:
 # 4. The total number of votes each candidate won
 # 5. The winner of the election based on popular vote
 
+### Publish to Git Hub
+# Launch the terminal for macOS or GitBash for Windows.
+# Navigate to the Election_Analysis folder using the necessary commands.
+# Type git status and press Enter.
+# Type git add . and press Enter.
+# Check the status again with git status and then press Enter.
+# Commit the files to be added to the repository by typing git commit -m "Adding the election analysis." and then press Enter.
+# Type git push and press Enter to add the file to your repository.
+# Refresh your GitHub page to see the repository changes.
